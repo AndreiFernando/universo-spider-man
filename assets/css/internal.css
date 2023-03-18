@@ -49,6 +49,7 @@
     margin-top: 50px;
     margin-left: 0;
     margin-bottom: 30px;
+    width: 100%;
 }
 
 .s-wrapper .s-main-content__top .s-description {
@@ -81,5 +82,5 @@
 
 .s-spider-man-01-01 {
     background-image: url('../imagens/spiderman-tobey/filme01/background\ \(1\).png');
-    background-size: cover;
+    background-size: 100% 100%;
 }
